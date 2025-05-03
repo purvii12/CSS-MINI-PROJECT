@@ -33,4 +33,5 @@ Adjust colors, sizes, and animations in style.css.
 If you like this project, feel free to ⭐ the repo!
 
 DEMO 
+[🎥 Watch Demo Video](https://github.com/purvii12/CSS-MINI-PROJECT/blob/78de1f888dac0ca418a0165a8fb4933519bf6cb9/CSS%20Project%20-%20Brave%202025-05-03%2016-49-55.mp4)
 
